@@ -1,5 +1,5 @@
 package com.hemebiotech.analytics;
-x
+
 import java.util.List;
 
 /**
@@ -8,7 +8,6 @@ import java.util.List;
  * that may contain many duplications
  * 
  * The implementation does not need to order the list
- * Array listssss
  */
 public interface ISymptomReader {
 	/**
